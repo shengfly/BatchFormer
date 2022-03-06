@@ -14,3 +14,4 @@ Here is the Pytorch Code of BatchFormer
       x = torch.cat([pre x, x], dim=0)
       y = torch.cat([y, y], dim=0)
       return x, y
+fff
